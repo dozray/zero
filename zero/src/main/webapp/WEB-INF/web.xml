@@ -8,7 +8,7 @@
 	<!--  第一启动顺序  -->
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
-		<param-value>/WEB-INF/classess/conf/applicationContext.xml,
+		<param-value>/WEB-INF/classes/conf/applicationContext.xml,
 							/WEB-INF/classes/conf/jpa.xml</param-value>
 	</context-param>
 	
